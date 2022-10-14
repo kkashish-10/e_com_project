@@ -20,7 +20,7 @@
     - Real time shipment tracking
     - Order Cancellation System
 
-- # DataBase Schema    
+- # DataBase Schema    (14-10-2022)
 ``` mermaid
 journey
 	title Me studying for exams
