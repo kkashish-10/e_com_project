@@ -1,6 +1,3 @@
-# e_com_project
- Custom merchs website for E-com project.
-
 # DDOS Custom Merchs 
 
 - # Project Proposal:
@@ -23,3 +20,4 @@
     - Real time shipment tracking
     - Order Cancellation System
 
+- # 
