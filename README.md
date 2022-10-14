@@ -21,7 +21,7 @@
     - Order Cancellation System
 
 - # DataBase Schema    
-```
+``` mermaid
 journey
 	title Me studying for exams
 	section Exam is announced
